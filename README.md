@@ -2,9 +2,9 @@
 <h2> Projects:</h2>
 
 - <b>Data Analysis With Numerical Methods (Euler's Method and Runge-Kutta)</b>
-  - [Numerical Simulations: Malaria and Mosquito Control](https://github.com/)
+  - [Numerical Simulations: Malaria and Mosquito Control](https://github.com/DavidRomero21/Malaria-and-Mosquito-Control)
 - <b>Statistical Analysis (In-Progress)</b>
-  - [Statistical Analysis of Reaction Times With Music](https://github.com/)
+  - [Statistical Analysis of Reaction Times With Music](https://github.com/DavidRomero21/Reaction-Times)
 
 <h2>Certifications:</h2>
 
