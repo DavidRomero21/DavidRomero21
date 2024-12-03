@@ -51,3 +51,7 @@
 <h2> Contact Information:</h2>
 
 - <b>email: dhromero@arizona.edu</b>
+
+<h2> Resume:</h2>
+
+- <b> [Current Resume](https://docs.google.com/document/d/1U7m3SOGRJIe2iGSGnhgThoESiKKVUouomo_5NDuaMfw/edit?usp=drive_link)</b>
